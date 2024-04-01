@@ -4,4 +4,4 @@ This application is a tool for creating personalized New Year's greeting cards, 
 
 ![App Image](https://github.com/vukstojanovic1987/PraznickeIgre/blob/master/Screenshot.png)
 
-Copyrights © Vuk Stojanović. All rights reserved.
+Copyright © Vuk Stojanović, 2017. All rights reserved.
